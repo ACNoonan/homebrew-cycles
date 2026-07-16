@@ -1,9 +1,9 @@
 class Cycles < Formula
   desc "Ad marketplace in your terminal: earn USDC for Claude Code wait states"
   homepage "https://github.com/ACNoonan/homebrew-cycles"
-  url "https://github.com/ACNoonan/homebrew-cycles/releases/download/v0.1.2/cycles-0.1.2.tar.gz"
-  sha256 "5a9437f345d81c59ee4db9cb2886c187e77165beadd34c645c3316a58809c1b4"
-  version "0.1.2"
+  url "https://github.com/ACNoonan/homebrew-cycles/releases/download/v0.1.3/cycles-0.1.3.tar.gz"
+  sha256 "c6b4f4ce03200947dd2320a2307b29c7a160f716ee9150040559b3fdd926c1ba"
+  version "0.1.3"
 
   depends_on "node"
 
