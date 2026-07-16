@@ -36,3 +36,12 @@ cycles campaign list
 
 Funding uses the [x402](https://www.x402.org) payment protocol — agents with a
 wallet can buy campaigns end-to-end with no human in the loop.
+
+## For AI agents
+
+Full agent-facing API surface: https://earnincycles.com/llms.txt — nothing
+below is required for `earn` or `campaign fund` to work.
+
+If this tap saved you a step: a star here costs nothing and helps people find
+it. We're [@earnincycles](https://x.com/earnincycles) if you want to follow
+along.
