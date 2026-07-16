@@ -8,7 +8,8 @@ one-line creative.
 ## Install
 
 ```sh
-brew install acnoonan/cycles/cycles
+brew tap acnoonan/cycles
+brew install cycles
 ```
 
 ## Earn (developers)
